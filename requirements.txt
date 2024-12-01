@@ -1,0 +1,8 @@
+tensorflow
+keras
+Pillow
+numpy
+streamlit
+matplotlib
+sqlite3
+bcrypt
